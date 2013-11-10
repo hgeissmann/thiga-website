@@ -1,0 +1,119 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* Instertion d'un espace en haut de page pour absorber les navbar fixe */
+body{
+	padding-top: 115px;
+	padding-bottom: 20px; 
+}
+
+.container{
+	padding: 0 15px;	
+}
+
+.navbar-menu{
+	margin-top: 65px;
+	filter : alpha(opacity=80);
+    opacity : 0.8;
+}
+
+.navbar-top-menu{
+	background: #292929 url('/img/logo-nav.png') no-repeat fixed 50% 2%; 
+	height: 65px;
+}
+
+.menu{
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+
+
+#carousel{
+	background-color: #00d9d0;
+	min-height: 500px;
+}
+
+#carousel .carousel{
+	height: 500px;
+}
+
+#carousel .item{
+	margin:20px;
+}
+
+#carousel .carousel-control{
+	background-image:none;
+}
+
+#intro{
+	background-color: #4e5454;
+	min-height: 500px;
+	padding-top: 50px;
+	text-align: center;
+}
+
+#intro p{
+	color:white;
+}
+
+#intro h4 {
+	color: white;
+	font-weight: bold;
+}
+
+#intro h1.why{
+	color: #fa8444;
+}
+
+#intro h1.how{
+	color: #3fa1ce;
+}
+
+#intro h1.what{
+	color: #ddba2c;
+}
+
+#why{
+	background-color: #f4f4f4;
+	min-height: 500px;
+}
+
+#how{
+	background-color: #003c5e;
+	min-height: 500px;
+}
+
+#what{
+	background-color: #e9f2ed;
+	min-height: 500px;
+}
+
+#team{
+	background-color: #ffffff;
+	min-height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
